@@ -4,7 +4,7 @@ title: AI-Noether
 
 # About the Authors
 
-* **Karan Srivastava:** University of Wisconsin-Madison, Madison WI USA, and IBM Research (corresponding author)
+* **Karan Srivastava:** Atomic Machines; most of this work was done at the University of Wisconsin-Madison, Madison WI USA (corresponding author)
 
 * **Sanjeeb Dash:** IBM Research (TJ Watson Research Center), New York USA ([website](https://research.ibm.com/people/sanjeeb-dash))
 
@@ -14,4 +14,4 @@ title: AI-Noether
 
 * **Cristina Cornelio:** Research Scientist at Samsung AI, Cambridge UK ([website](https://corneliocristina.github.io))
 
-* **Lior Horesh:** IBM Research (TJ Watson Research Center), New York USA & Associate Professor at Columbia University ([website](https://research.ibm.com/people/lior-horesh))
+* **Lior Horesh:** IBM Research (TJ Watson Research Center), New York USA & MIT ([website](https://research.ibm.com/people/lior-horesh))

@@ -16,7 +16,7 @@ title: AI-Noether
 <br clear="left"/>
 
 <p align="center">
-<img src="figures/emergence.webp" width="720" alt="Animated illustration of a missing axiom emerging from the intersection of known axioms and a hypothesis"/>
+<img src="figures/noether.jpeg" width="720" alt="Illustration of a variety, formed by known axioms and a hypothesis, decomposing into its irreducible components"/>
 </p>
 <p align="center"><em>Illustration, not computed output.</em></p>
 
@@ -107,7 +107,7 @@ Symbolic regression methods, including AI-Feynman and AI-Descartes, need data fo
 
 ### Why "Noether"
 
-The system is named in honor of Emmy Noether, whose work in algebraic geometry, including the Lasker-Noether decomposition at the core of AI-Noether, and in physics, through Noether's theorem on symmetries and conserved quantities, uncovered the algebraic structure underlying physical laws.
+The system is named in honor of Emmy Noether, one of the leading mathematicians of her time. Her primary decomposition, the Lasker-Noether theorem that every polynomial ideal is a finite intersection of primary ideals, is the centerpiece of AI-Noether's algorithm: it is the Decompose step that breaks the variety of the known axioms and the hypothesis into irreducible components, and so exposes the missing axioms. The name also reflects her legacy in physics, where Noether's theorem on symmetries and conserved quantities uncovered the algebraic structure underlying physical laws.
 
 
 ### Conclusions
