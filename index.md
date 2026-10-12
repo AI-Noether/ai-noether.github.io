@@ -20,7 +20,7 @@ title: AI-Noether
 </p>
 <p align="center"><em>Illustration, not computed output.</em></p>
 
-> **Accepted for publication in *Nature Communications* (in press).**
+> ***Nature Communications* (in press, 2026).**
 > Preprints: [arXiv:2509.23004](https://arxiv.org/abs/2509.23004) and [Research Square](https://doi.org/10.21203/rs.3.rs-8424165/v1).
 
 
