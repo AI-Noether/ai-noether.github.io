@@ -6,7 +6,7 @@ title: AI-Noether
 
 **Paper:**
 
-* **Bridging the Gap Between Scientific Laws Derived by AI Systems and Canonical Knowledge via Abductive Inference with AI-Noether**, K. Srivastava, S. Dash, R. Cory-Wright, B. Trager, C. Cornelio, L. Horesh, Nature Communications (2026, in press). Preprint: [arXiv:2509.23004](https://arxiv.org/abs/2509.23004)
+* **Bridging the Gap Between Scientific Laws Derived by AI Systems and Canonical Knowledge via Abductive Inference with AI-Noether**, K. Srivastava, S. Dash, R. Cory-Wright, B. Trager, C. Cornelio, L. Horesh, Nature Communications (2026, in press). Preprints: [arXiv:2509.23004](https://arxiv.org/abs/2509.23004) and [Research Square, doi:10.21203/rs.3.rs-8424165/v1](https://doi.org/10.21203/rs.3.rs-8424165/v1)
 
 **Code and data:**
 

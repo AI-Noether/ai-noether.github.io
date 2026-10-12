@@ -20,6 +20,9 @@ title: AI-Noether
 </p>
 <p align="center"><em>Illustration, not computed output.</em></p>
 
+> **Accepted for publication in *Nature Communications* (in press).**
+> Preprints: [arXiv:2509.23004](https://arxiv.org/abs/2509.23004) and [Research Square](https://doi.org/10.21203/rs.3.rs-8424165/v1). Code and data: [github.com/IBM/AI-Noether](https://github.com/IBM/AI-Noether), [doi:10.5281/zenodo.23264836](https://doi.org/10.5281/zenodo.23264836).
+
 
 ## AI-Noether overview
 
