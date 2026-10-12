@@ -20,8 +20,7 @@ title: AI-Noether
 </p>
 <p align="center"><em>Illustration, not computed output.</em></p>
 
-> **<em>Nature Communications</em> (in press, 2026).**
-> Preprints: [arXiv:2509.23004](https://arxiv.org/abs/2509.23004) and [Research Square](https://doi.org/10.21203/rs.3.rs-8424165/v1).
+<p align="center" style="font-size: 0.95em;"><strong><em>Nature Communications</em> (in press, 2026).</strong> Preprints: <a href="https://arxiv.org/abs/2509.23004">arXiv:2509.23004</a> and <a href="https://doi.org/10.21203/rs.3.rs-8424165/v1">Research Square</a>.</p>
 
 
 ## AI-Noether overview
